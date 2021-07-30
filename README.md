@@ -5,10 +5,11 @@ Sou **Daivid Victor**, um nerd por natureza que gosta de saber como as coisas fu
 Venho trabalhando minhas habilidades técnicas e espero contribuir no desenvolvimento de ferramentas com foco em Acessibilidade, Usabilidade, Desempenho, Melhores Práticas e SEO. Migrei de carreira em 2020 :rocket:
 
 ####
+
 <div>
   <a href="https://github.com/DaividVictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaividVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaividVictor&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaividVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaividVictor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tech Skills:
