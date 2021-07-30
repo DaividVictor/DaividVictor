@@ -33,3 +33,6 @@ Venho trabalhando minhas habilidades técnicas e espero contribuir no desenvolvi
 1. 👨‍🎓 Sou Engenheiro Agrônomo formado pela Universidade Federal do Pará;
 2. 🤠 Recebi o apelido de Samurai na graduação e ficou até hoje;
 3. 👨‍💻 Sou usuário Linux e de Software Livre desde 2014.
+
+
+![Snake animation](https://github.com/DaividVictor/DaividVictor/blob/output/github-contribution-grid-snake.svg)
