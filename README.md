@@ -8,8 +8,8 @@ Venho trabalhando minhas habilidades técnicas e espero contribuir no desenvolvi
 
 <div>
   <a href="https://github.com/DaividVictor">
-  <img align="between" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaividVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="between" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaividVictor&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="stretch" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaividVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="stretch" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaividVictor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tech Skills:
