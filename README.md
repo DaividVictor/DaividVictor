@@ -17,7 +17,6 @@ Venho trabalhando minhas habilidades técnicas e espero contribuir no desenvolvi
   <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="TypeScript" height="30" width="90" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="GitHub" height="30" width="90" src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Ubuntu" height="30" width="90" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
